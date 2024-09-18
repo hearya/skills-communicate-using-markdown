@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "No pain no gain - arnold schwarzenegger";
 ```
+- [x] workout
+- [x] go to work
+- [ ] gamen 
